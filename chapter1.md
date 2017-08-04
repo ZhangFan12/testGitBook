@@ -8,7 +8,7 @@
 
 安装完成后，我们可以执行 gitbook -v 查看安装的版本信息。
 
-`gitbook -v`
+`$ gitbook -v`
 
 ## 
 
