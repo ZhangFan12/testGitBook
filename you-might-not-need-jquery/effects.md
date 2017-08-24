@@ -1,0 +1,11 @@
+# Effects
+
+#### ALTERNATIVES:
+
+* [animate.css](http://daneden.github.io/animate.css/)
+* [move.js](https://github.com/visionmedia/move.js)
+
+---
+
+
+

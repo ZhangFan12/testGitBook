@@ -100,9 +100,7 @@ request.onerror = function() {
 request.send();
 ```
 
-### 
-
-### 
+# 
 
 
 
