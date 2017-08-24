@@ -51,13 +51,53 @@ $.ajax({
 });
 ```
 
-#### IE9+
+#### IE8+
 
 ```
 var request = new XMLHttpRequest();
 request.open('POST', '/my/url', true);
 request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded; charset=UTF-8');
 request.send(data);
+```
+
+# Request
+
+#### JQUERY
+
+```js
+$.ajax({
+  type: 'GET',
+  url: '/my/url',
+  success: function(resp) {
+
+  },
+  error: function() {
+
+  }
+});
+```
+
+#### IE9+
+
+```
+var request = new XMLHttpRequest();
+request.open('GET', '/my/url', true);
+
+request.onload = function() {
+  if (request.status >= 200 && request.status < 400) {
+    // Success!
+    var resp = request.responseText;
+  } else {
+    // We reached our target server, but it returned an error
+
+  }
+};
+
+request.onerror = function() {
+  // There was a connection error of some sort
+};
+
+request.send();
 ```
 
 ### 
