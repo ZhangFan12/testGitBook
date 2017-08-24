@@ -1,4 +1,4 @@
-# [你可能不需要 jQuery！使用原生 JavaScript 进行开发](http://www.cnblogs.com/lhb25/p/you-might-not-need-jquery.html)
+# 你可能不需要 jQuery！使用原生 JavaScript 进行开发
 
 很多的 JavaScript 开发人员，包括我在内，都很喜欢[**jQuery**](http://www.cnblogs.com/lhb25/category/277997.html)。因为它的简单，因为它有很多丰富的插件可供使用，和其它优秀的工具一样，jQuery 让我们开发人员能够更轻松的开发网站和 Web 应用。
 
