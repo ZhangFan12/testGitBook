@@ -11,4 +11,5 @@
 * [IDE编辑器](idebian-ji-qi.md)
   * [ATOM](idebian-ji-qi/atom.md)
     * [快捷键](idebian-ji-qi/atom/kuai-jie-jian.md)
+    * [插件](idebian-ji-qi/atom/cha-jian.md)
 
