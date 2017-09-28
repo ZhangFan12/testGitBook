@@ -18,11 +18,5 @@
 
 打开标签页：Editor &gt; FontSize
 
-```
-.tree-view {
-    font-size: 16px;  //修改的部分
-}
-```
-
 
 
