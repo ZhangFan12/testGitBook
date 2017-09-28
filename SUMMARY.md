@@ -12,4 +12,5 @@
   * [ATOM](idebian-ji-qi/atom.md)
     * [快捷键](idebian-ji-qi/atom/kuai-jie-jian.md)
     * [插件](idebian-ji-qi/atom/cha-jian.md)
+    * [常见问题](idebian-ji-qi/atom/chang-jian-wen-ti.md)
 
